@@ -1,4 +1,4 @@
-[Click here to try the app](https://your-app-link.streamlit.app)
+[Click here to try the app](https://realestateapp-hyi4pgee6vsmrooauxymx6.streamlit.app/)
 
 #  Real Estate Price Predictor
 
