@@ -1,3 +1,5 @@
+[Click here to try the app](https://your-app-link.streamlit.app)
+
 #  Real Estate Price Predictor
 
 This project is a **machine learning web application** built with **Streamlit** that predicts real estate prices based on user-inputted property features. The model uses linear regression and provides insight into which features most influence price.
